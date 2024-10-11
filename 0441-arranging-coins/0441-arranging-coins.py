@@ -1,10 +1,6 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        k = 1
-        while (k * (k + 1)) // 2 <= n:
-            k += 1
-        return k - 1
-
+        return int((math.sqrt(1 + 8*n)-1)/2)
 
 
 
@@ -13,6 +9,11 @@ class Solution:
 
 
         """
+        k = 1
+        while (k * (k + 1)) // 2 <= n:
+            k += 1
+        return k - 1
+
         m = 0
         for i in range(1, n + 1):  # 1'den başlıyoruz çünkü ilk sıra 1 bozuk para
             m += i  # Kullanılan bozuk para sayısı
