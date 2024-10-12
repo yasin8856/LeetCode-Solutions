@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yasin8856/LeetCode/tree/master/0035-search-insert-position) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
+| [3463-alternating-groups-i](https://github.com/yasin8856/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/yasin8856/LeetCode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
