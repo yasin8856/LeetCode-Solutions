@@ -31,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/yasin8856/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yasin8856/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## String
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yasin8856/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
