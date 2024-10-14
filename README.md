@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yasin8856/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasin8856/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yasin8856/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/yasin8856/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yasin8856/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yasin8856/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yasin8856/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
