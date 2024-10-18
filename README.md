@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yasin8856/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yasin8856/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yasin8856/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sliding Window
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yasin8856/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yasin8856/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
