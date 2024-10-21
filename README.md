@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasin8856/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
 | [3463-alternating-groups-i](https://github.com/yasin8856/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yasin8856/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yasin8856/LeetCode/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/yasin8856/LeetCode/tree/master/0441-arranging-coins) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yasin8856/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yasin8856/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yasin8856/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
