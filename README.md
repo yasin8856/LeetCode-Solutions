@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yasin8856/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/yasin8856/LeetCode/tree/master/0035-search-insert-position) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasin8856/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yasin8856/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/yasin8856/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/yasin8856/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/yasin8856/LeetCode/tree/master/2634-minimum-common-value) |
