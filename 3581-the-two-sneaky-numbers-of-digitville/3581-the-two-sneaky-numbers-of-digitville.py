@@ -4,10 +4,10 @@ class Solution:
         not_once = []
         for i in nums:
             if i not in nums_hash:
-                nums_hash[i] = 1  # İlk kez gördüğünüzde 1 olarak ayarlayın
+                nums_hash[i] = 1
             else:
-                nums_hash[i] += 1  # Eğer tekrar görülmüşse sayısını artırın
+                nums_hash[i] += 1
                 if i not in not_once:
-                    not_once.append(i)  # Sadece sayının kendisini ekleyin
+                    not_once.append(i)
         return not_once
         
